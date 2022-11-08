@@ -1,4 +1,4 @@
-# Alist on Fly.io
+## Alist on Fly.io
 ## 状态
 [![Fly Deploy cd](https://github.com/qingyuan0o0/alist-flyio/actions/workflows/main.yml/badge.svg)](https://github.com/qingyuan0o0/alist-flyio/actions/workflows/main.yml)
 ## 有问题去Discussions，HostLoc等不是工单论坛
